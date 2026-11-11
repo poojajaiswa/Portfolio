@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pooja Jaiswal — AI/ML Portfolio
 
 A premium, recruiter-focused portfolio for **Pooja Jaiswal** — Data Scientist | AI/ML Engineer |
@@ -243,3 +244,6 @@ These are intentional and listed so nothing ships by accident:
 3. All project `github` / `demo` links — `null`; chips show "not published" / "coming soon".
 4. All `credentialUrl` values — `null`; cards show "Certificate on file".
 5. `profilePhoto` — empty; the monogram card is shown instead.
+=======
+# Portfolio
+>>>>>>> c159eaa16bd276be823bbc90b571ab1f78909057
