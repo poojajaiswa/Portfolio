@@ -1,0 +1,57 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 625 >>
+stream
+BT
+/F1 24 Tf
+1 0 0 1 72 720 Tm
+(Pooja Jaiswal) Tj
+/F1 13 Tf
+1 0 0 1 72 694 Tm
+(Data Scientist | AI/ML Engineer) Tj
+/F1 15 Tf
+1 0 0 1 72 640 Tm
+(PLACEHOLDER RESUME) Tj
+/F1 11 Tf
+1 0 0 1 72 612 Tm
+(Replace this file with the real resume PDF, keeping the same path:) Tj
+/F1 11 Tf
+1 0 0 1 72 594 Tm
+(public/resume/Pooja-Jaiswal-Resume.pdf) Tj
+/F1 11 Tf
+1 0 0 1 72 566 Tm
+(Every Download Resume button on the site points at that path,) Tj
+/F1 11 Tf
+1 0 0 1 72 548 Tm
+(so no code changes are needed after swapping the file.) Tj
+/F1 10 Tf
+1 0 0 1 72 500 Tm
+(iampoojajaiswal7440@gmail.com  |  +91 7440970588  |  Indore, India) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000916 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+991
+%%EOF
